@@ -1,4 +1,3 @@
-import React from "react";
 import { createBrowserRouter } from "react-router-dom";
 import Root from "../Pages/Root/Root";
 import Home from "../Pages/Home/Home";
@@ -15,8 +14,8 @@ export const router = createBrowserRouter([
     children: [
       { index: true, element: <Home /> },
       { path: "apps", element: <AllApps /> },
-      { path: "installation", element: <Installation /> },
       { path: "apps/:id", element: <AppDetails /> },
+      { path: "installation", element: <Installation /> },
     ],
   },
 ]);

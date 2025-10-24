@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/demo-app (1).webp",
+    "title": "Daily Planner",
+    "companyName": "Productivity Inc",
+    "description": "Organize your daily tasks, set reminders, and boost your productivity with our intuitive planner. Track your habits, manage your schedule, and achieve your goals with ease.",
+    "size": 28,
+    "reviews": 15000,
+    "ratingAvg": 4.7,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/assets/demo-app (2).webp",
+    "title": "Plant Care Pro",
+    "companyName": "GreenThumb Studios",
+    "description": "Keep your plants healthy and thriving with personalized care reminders, watering schedules, and expert gardening tips. Perfect for beginners and experienced gardeners.",
+    "size": 42,
+    "reviews": 8500,
+    "ratingAvg": 4.5,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4200 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/assets/demo-app (3).webp",
+    "title": "Todoist Pro",
+    "companyName": "TaskMaster Ltd",
+    "description": "The ultimate task management app with powerful features for organizing projects, collaborating with teams, and tracking progress across all your devices.",
+    "size": 35,
+    "reviews": 25000,
+    "ratingAvg": 4.8,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 17000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/assets/demo-app (4).webp",
+    "title": "FreshFood Recipes",
+    "companyName": "Culinary Apps",
+    "description": "Discover thousands of delicious recipes with step-by-step instructions, meal planning tools, and grocery lists. Eat healthy and save time in the kitchen.",
+    "size": 55,
+    "reviews": 32000,
+    "ratingAvg": 4.6,
+    "downloads": 9500000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 8200 },
+      { "name": "5 star", "count": 19000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "/assets/demo-app (5).webp",
+    "title": "Happy Habits",
+    "companyName": "Wellness Tech",
+    "description": "Build positive habits and break bad ones with our science-backed habit tracker. Get reminders, track streaks, and celebrate your progress every day.",
+    "size": 30,
+    "reviews": 18000,
+    "ratingAvg": 4.7,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 550 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4700 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "/assets/demo-app (6).webp",
+    "title": "MindFlow Meditation",
+    "companyName": "Zen Apps",
+    "description": "Find peace and clarity with guided meditations, breathing exercises, and sleep stories. Reduce stress, improve focus, and sleep better every night.",
+    "size": 48,
+    "reviews": 22000,
+    "ratingAvg": 4.9,
+    "downloads": 6800000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 16000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "/assets/demo-app (1).webp",
+    "title": "Budget Buddy",
+    "companyName": "FinTech Solutions",
+    "description": "Take control of your finances with smart budgeting tools, expense tracking, and savings goals. Get insights into your spending and plan for the future.",
+    "size": 32,
+    "reviews": 14000,
+    "ratingAvg": 4.4,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 7700 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "/assets/demo-app (2).webp",
+    "title": "FitLife Tracker",
+    "companyName": "HealthTech Inc",
+    "description": "Track your workouts, monitor your nutrition, and reach your fitness goals with personalized plans and expert guidance. Stay motivated and healthy.",
+    "size": 62,
+    "reviews": 38000,
+    "ratingAvg": 4.8,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 8100 },
+      { "name": "5 star", "count": 26000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "/assets/demo-app (3).webp",
+    "title": "Language Master",
+    "companyName": "LinguaTech",
+    "description": "Learn new languages with interactive lessons, real conversations, and AI-powered feedback. Master vocabulary, grammar, and pronunciation at your own pace.",
+    "size": 75,
+    "reviews": 28000,
+    "ratingAvg": 4.7,
+    "downloads": 7500000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 6600 },
+      { "name": "5 star", "count": 18000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "/assets/demo-app (4).webp",
+    "title": "PhotoPro Editor",
+    "companyName": "Creative Studios",
+    "description": "Edit photos like a professional with powerful tools, filters, and effects. Enhance your images, create stunning collages, and share your creativity.",
+    "size": 88,
+    "reviews": 45000,
+    "ratingAvg": 4.6,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 29000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "/assets/demo-app (5).webp",
+    "title": "Travel Explorer",
+    "companyName": "WanderLust Apps",
+    "description": "Discover amazing destinations, plan your trips, and book accommodations all in one place. Get travel tips, local guides, and exclusive deals.",
+    "size": 68,
+    "reviews": 19000,
+    "ratingAvg": 4.5,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 5100 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "/assets/demo-app (6).webp",
+    "title": "Study Smart",
+    "companyName": "EduTech Pro",
+    "description": "Ace your exams with smart study tools, flashcards, practice tests, and learning analytics. Stay organized and track your academic progress.",
+    "size": 45,
+    "reviews": 21000,
+    "ratingAvg": 4.8,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 4900 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "/assets/demo-app (1).webp",
+    "title": "Music Stream Pro",
+    "companyName": "AudioWave",
+    "description": "Stream millions of songs, create playlists, and discover new music tailored to your taste. Enjoy offline downloads and high-quality audio.",
+    "size": 72,
+    "reviews": 52000,
+    "ratingAvg": 4.7,
+    "downloads": 18000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 11000 },
+      { "name": "5 star", "count": 34000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "/assets/demo-app (2).webp",
+    "title": "Shopping Hub",
+    "companyName": "RetailTech",
+    "description": "Shop from thousands of brands with exclusive deals, fast delivery, and secure payments. Browse, compare, and save on everything you need.",
+    "size": 58,
+    "reviews": 41000,
+    "ratingAvg": 4.4,
+    "downloads": 11000000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 3800 },
+      { "name": "4 star", "count": 9500 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "/assets/demo-app (3).webp",
+    "title": "Weather Live",
+    "companyName": "ClimateTech",
+    "description": "Get accurate weather forecasts, severe weather alerts, and detailed radar maps. Plan your day with hourly and weekly weather updates.",
+    "size": 38,
+    "reviews": 16000,
+    "ratingAvg": 4.6,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1450 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 9400 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "/assets/demo-app (4).webp",
+    "title": "Secure Vault",
+    "companyName": "CyberGuard",
+    "description": "Protect your passwords, documents, and sensitive data with military-grade encryption. Secure cloud backup and biometric authentication included.",
+    "size": 42,
+    "reviews": 13000,
+    "ratingAvg": 4.9,
+    "downloads": 3800000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 8500 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "/assets/demo-app (5).webp",
+    "title": "NewsHub Daily",
+    "companyName": "MediaStream",
+    "description": "Stay informed with breaking news, personalized feeds, and in-depth articles from trusted sources worldwide. Read, watch, and listen on the go.",
+    "size": 50,
+    "reviews": 24000,
+    "ratingAvg": 4.3,
+    "downloads": 6500000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2600 },
+      { "name": "4 star", "count": 6700 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "/assets/demo-app (6).webp",
+    "title": "Game Central",
+    "companyName": "PlayZone",
+    "description": "Discover and play thousands of games across all genres. Join tournaments, compete with friends, and unlock exclusive rewards and achievements.",
+    "size": 95,
+    "reviews": 67000,
+    "ratingAvg": 4.8,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2300 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 14000 },
+      { "name": "5 star", "count": 44000 }
+    ]
+  }
+]
