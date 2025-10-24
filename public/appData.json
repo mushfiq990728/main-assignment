@@ -1,0 +1,272 @@
+[
+  {
+    "image": "/images/socialhub.png",
+    "title": "SocialHub",
+    "companyName": "NextGen Apps",
+    "id": 1,
+    "description": "Connect with your friends and share your favorite moments instantly.",
+    "size": 48,
+    "reviews": 12000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "/images/taskmate.png",
+    "title": "TaskMate",
+    "companyName": "Focus Labs",
+    "id": 2,
+    "description": "Organize your tasks, set reminders, and boost productivity every day.",
+    "size": 32,
+    "reviews": 8400,
+    "ratingAvg": 4.4,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "/images/fittrack.png",
+    "title": "FitTrack",
+    "companyName": "ActiveCore",
+    "id": 3,
+    "description": "Track your workouts, calories, and goals with smart insights.",
+    "size": 52,
+    "reviews": 21000,
+    "ratingAvg": 4.7,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 13200 }
+    ]
+  },
+  {
+    "image": "/images/picperfect.png",
+    "title": "PicPerfect",
+    "companyName": "PixelWave Studio",
+    "id": 4,
+    "description": "Edit photos like a pro with advanced filters and AI enhancement tools.",
+    "size": 75,
+    "reviews": 9500,
+    "ratingAvg": 4.2,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+  {
+    "image": "/images/travelgo.png",
+    "title": "TravelGo",
+    "companyName": "WanderTech",
+    "id": 5,
+    "description": "Plan your trips, book hotels, and discover hidden gems worldwide.",
+    "size": 60,
+    "reviews": 17600,
+    "ratingAvg": 4.5,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 4600 },
+      { "name": "5 star", "count": 9300 }
+    ]
+  },
+  {
+    "image": "/images/learnly.png",
+    "title": "Learnly",
+    "companyName": "EduSoft",
+    "id": 6,
+    "description": "Online learning platform offering hundreds of interactive courses.",
+    "size": 90,
+    "reviews": 25000,
+    "ratingAvg": 4.8,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 16500 }
+    ]
+  },
+  {
+    "image": "/images/foodiez.png",
+    "title": "Foodiez",
+    "companyName": "TastyTech",
+    "id": 7,
+    "description": "Order from your favorite restaurants and track delivery in real time.",
+    "size": 58,
+    "reviews": 42000,
+    "ratingAvg": 4.6,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 3900 },
+      { "name": "4 star", "count": 9200 },
+      { "name": "5 star", "count": 26300 }
+    ]
+  },
+  {
+    "image": "/images/mediplus.png",
+    "title": "MediPlus",
+    "companyName": "HealthSphere",
+    "id": 8,
+    "description": "Consult doctors online, track medications, and stay fit with tips.",
+    "size": 80,
+    "reviews": 11000,
+    "ratingAvg": 4.3,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "/images/musicflow.png",
+    "title": "MusicFlow",
+    "companyName": "AudioTech",
+    "id": 9,
+    "description": "Stream millions of songs, podcasts, and playlists ad-free.",
+    "size": 65,
+    "reviews": 75000,
+    "ratingAvg": 4.9,
+    "downloads": 30000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 5600 },
+      { "name": "5 star", "count": 64800 }
+    ]
+  },
+  {
+    "image": "/images/shopio.png",
+    "title": "Shopio",
+    "companyName": "UrbanCart",
+    "id": 10,
+    "description": "Shop from thousands of stores with exclusive discounts and fast delivery.",
+    "size": 70,
+    "reviews": 38000,
+    "ratingAvg": 4.4,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 1300 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 3100 },
+      { "name": "4 star", "count": 7200 },
+      { "name": "5 star", "count": 25800 }
+    ]
+  },
+  {
+    "image": "/images/weatherly.png",
+    "title": "Weatherly",
+    "companyName": "SkyCast Labs",
+    "id": 11,
+    "description": "Accurate weather forecasts with live radar and hourly updates.",
+    "size": 25,
+    "reviews": 6000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 2400 }
+    ]
+  },
+  {
+    "image": "/images/securevault.png",
+    "title": "SecureVault",
+    "companyName": "CyberShield",
+    "id": 12,
+    "description": "Protect your passwords, notes, and data with advanced encryption.",
+    "size": 44,
+    "reviews": 5300,
+    "ratingAvg": 4.8,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 3300 }
+    ]
+  },
+  {
+    "image": "/images/newsbeat.png",
+    "title": "NewsBeat",
+    "companyName": "GlobalView Media",
+    "id": 13,
+    "description": "Stay updated with the latest global headlines and breaking stories.",
+    "size": 39,
+    "reviews": 7200,
+    "ratingAvg": 4.2,
+    "downloads": 2200000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 2600 }
+    ]
+  },
+  {
+    "image": "/images/langly.png",
+    "title": "Langly",
+    "companyName": "LinguaTech",
+    "id": 14,
+    "description": "Learn new languages with interactive lessons and AI conversations.",
+    "size": 78,
+    "reviews": 16000,
+    "ratingAvg": 4.7,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 9700 }
+    ]
+  },
+  {
+    "image": "/images/gameverse.png",
+    "title": "GameVerse",
+    "companyName": "PlayNext",
+    "id": 15,
+    "description": "Discover, play, and share the best mobile games in one app.",
+    "size": 95,
+    "reviews": 87000,
+    "ratingAvg": 4.9,
+    "downloads": 40000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 11000 },
+      { "name": "5 star", "count": 67000 }
+    ]
+  }
+]
